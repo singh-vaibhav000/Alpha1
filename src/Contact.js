@@ -8,7 +8,7 @@ const ContactForm = () => {
 
     return (
         <div className='fixed 
-        top-[10rem] right-[8rem] 
+        top-[-1rem] right-[8rem] 
         bg-white
         rounded-lg
         w-[35%]
