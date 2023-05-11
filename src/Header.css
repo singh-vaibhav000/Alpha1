@@ -1,0 +1,40 @@
+.inner{
+  width: 40%;
+  margin-left: 7rem; 
+  padding-top: 6rem;
+  padding-bottom: 13rem;
+}
+.wid{
+  width: 18rem;
+}
+.txt{
+  font-size: 3rem; /* 48px */
+line-height: 1;
+font-weight: 900;
+margin-top: 4rem; 
+}
+.txt1{
+  font-size: 1.5rem; /* 24px */
+line-height: 2rem; /* 32px */
+margin-top: 2.5rem;
+color: rgb(31 41 55);
+width: 60%;
+}
+.a1{
+  display: flex;
+  margin-top: 6rem;
+  gap: 2.5rem;
+  
+}
+.a2{
+  text-align: center;
+}
+.a3{
+  margin: auto;
+}
+.a4{
+  margin-top: 1rem; 
+}
+.a5{
+  text-align: center;
+}

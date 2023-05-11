@@ -1,0 +1,53 @@
+.flexxx{
+    display: flex;
+}
+.w1{
+    width: 30%;
+}
+.w2{
+    width: 70%;
+    padding: 2.5rem;
+    background-color: rgb(229 231 235);
+}
+.w3{
+    font-size: 3rem;
+    line-height: 1;
+    margin-bottom: 3rem;
+}
+/* .w5{
+    margin-top: 2rem;
+} */
+.flex2{
+    display: flex;
+    column-gap: 2rem;
+    align-items: center;
+}
+.w6{
+width: 5%;
+}
+.w7{
+    width: 95%;
+}
+.w8{
+    font-size: 1.125rem; /* 18px */
+    line-height: 1.75rem; /* 28px */
+    font-weight: 500;
+}
+.w9{
+    margin-top: 0.5rem;
+}
+.w10{
+    margin-top: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.w11{
+    font-size: 1.25rem; /* 20px */
+    line-height: 1.75rem; /* 28px */
+}
+.w12
+{
+    width: 1.5rem;
+}

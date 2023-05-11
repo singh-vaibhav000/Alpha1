@@ -1,0 +1,36 @@
+.c1{
+    padding-left: 3rem; /* 48px */
+    padding-right: 3rem; /* 48px */
+    padding-top: 2rem; /* 32px */
+padding-bottom: 2rem; /* 32px */
+grid-template-columns: repeat(4, minmax(0, 1fr));
+background-color: rgb(0 0 0);
+color: rgb(255 255 255);
+display: grid;
+}
+.c2{
+    font-size: 1.25rem; /* 20px */
+    line-height: 1.75rem; /* 28px */
+}
+.c3{
+    color: rgb(255 255 255);
+}
+.c4{
+	margin-top: 1rem; /* 16px */
+    font-size: 1.125rem; /* 18px */
+line-height: 1.75rem; /* 28px */
+color: rgb(209 213 219);
+}
+.c5{
+    color: rgb(107 114 128);
+}
+.c6{
+    color: rgb(107 114 128);
+}
+.c7{
+    background-color: rgb(255 255 255);
+    text-align: center;
+    margin-top: 1rem; /* 16px */
+    margin-bottom: 1rem; /* 16px */
+    color: rgb(55 65 81);
+}

@@ -1,0 +1,57 @@
+/* .App {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.section1 {
+  position: absolute;  
+} */
+.back1{
+  background-repeat: no-repeat;
+}
+.width1{
+  width: 40%;
+  padding-top: 6rem; 
+  margin-left: 7rem;
+  padding-bottom: 14rem;
+}
+.a11{
+  font-size: 3rem; /* 48px */
+  line-height: 1;
+  font-weight: 500;
+}
+.a21{
+  margin-top: 1rem;
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.75rem; /* 28px */
+}
+.a31{
+  font-weight: 500;
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.75rem; /* 28px */
+  margin-top: 2rem; 
+}
+.a41{
+  margin-top: 1rem;
+  margin-top: 1rem;
+}
+.a51{
+  margin-left: 1.25rem;
+  list-style-type: disc;
+}
+.flexx1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.a61{
+  font-size: 1.25rem; /* 20px */
+  line-height: 1.75rem; /* 28px */
+}
+.a71{
+  width: 1.5rem;
+}
